@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">myRoom</string>
+    <string name="action_settings">Settings</string>
+    <string name="btn_request">Request Permission</string>
+    <string name="runtime_permission">Runtime permission required</string>
+    <string name="btn_activity_demo">Activity Demo</string>
+    <string name="btn_fragment_demo">Fragment Demo</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank supportFragment</string>
+    <string name="btn_ok">OK</string>
+    <string name="btn_cancel">Cancel</string>
+    <string name="month">/month</string>
+    <string name="show">We provide space for you to stay.</string>
+    <string name="btn_support_fragment_demo">Support Fragment Demo</string>
+    <string name="room">Here\'s some room for you..</string>
+    <string name="noconn">NO INTERNET CONNECTION</string>
+
+    <string name="sites"><a href="http://www.nurrofiqi.com">www.nurrofiqi.com</a></string>
+
+    <string name="copyright">© Copyright 2017 <a href="http://www.nurrofiqi.com">www.nurrofiqi.com</a></string>
+
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyAL9aE8TzODeGOeg1VFTmfHCGH5q16hnow</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="report_problem">Report Problem</string>
+    <string name="facilities">Facilities</string>
+    <string name="location">Location</string>
+    <string name="get_direction">DIRECTIONS</string>
+    <string name="description">Description</string>
+    <string name="mapsGoogle">Powered by <a href="http://maps.google.com">Google Maps</a></string>
+
+    <string name="volley"><b>Volley</b> - by <a href="https://github.com/mcxiaoke/android-volley">mcxiaoke at GitHub</a></string>
+    <string name="gson"><b>Gson</b> - by <a href="https://github.com/google/gson">Google at GitHub</a></string>
+    <string name="glide" ><b>Glide</b> - by <a href="https://github.com/bumptech/glide">bumptech at GitHub</a></string>
+    <string name="askpermission" ><b>AskPermission</b> - by <a href="https://github.com/Kishanjvaghela/Ask-Permission">Kishanjvaghela at GitHub</a></string>
+    <string name="circleindicator" ><b>CircleIndicator</b> - by <a href="https://github.com/ongakuer/CircleIndicator">ongakuer at GitHub</a></string>
+    <string name="circleimageview" ><b>CircleImageView</b> - by <a href="https://github.com/hdodenhof/CircleImageView">hdodenhof at GitHub</a></string>
+    <string name="gmaps"><b>Google Maps</b> - by <a href="https://developers.google.com/maps/">Google</a></string>
+    <string name="tujuan">Cara mudah untuk mencari dan menentukan dimana kamu mau tidur seperti di kamar sendiri. Bepergian dengan kamarmu</string>
+    <string name="refresh">Refresh</string>
+
+</resources>

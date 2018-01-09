@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorPrimary"
+    android:focusableInTouchMode="false"
+    android:focusable="false">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:scaleType="centerInside"
+            android:scaleY="4"
+            android:scaleX="4"
+            android:alpha=".6"
+            android:tint="@color/colorLDark"
+            android:src="@drawable/ic_signal_wifi_off_black_24dp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:textSize="12sp"
+        android:paddingTop="10dp"
+        android:gravity="center|top"
+        android:alpha=".6"
+        android:textAlignment="center"
+        android:textColor="@color/colorLDark"
+        android:text="@string/noconn"/>
+
+</LinearLayout>
